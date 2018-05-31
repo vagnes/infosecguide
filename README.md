@@ -18,6 +18,7 @@ This is by no means any study plan or definite guide to every aspect that you wi
 - [Software](#software)
 - [Journals](#journals)
 - [Blogs](#blogs)
+- [Guides and cheat sheets](#guides-and-cheat-sheets)
 - [Other](#other)
 
 ## Programming languages
@@ -67,7 +68,6 @@ This is by no means any study plan or definite guide to every aspect that you wi
 - [Nano](https://www.nano-editor.org/) - A very simple text editor that is easy to learn.
 - [vim](https://www.vim.org) - Vim is a highly configurable text editor for efficiently creating and changing any kind of text. (You quit vim by typing ":q")
 
-
 ## Software
 
 ### Dissasemblers and debuggers
@@ -83,6 +83,14 @@ This is by no means any study plan or definite guide to every aspect that you wi
 
 - [Krebs on Security](https://krebsonsecurity.com/) - Brian Krebs is an American journalist and investigative reporter with great coverage on cybercrime.
 - [Schneier on Security](https://www.schneier.com/) - Bruce Schneier is an American cryptographer, computer security professional, privacy specialist and writer.
+
+## Guides and cheat sheets
+
+### Web security
+
+- [Hacker101](https://www.hacker101.com/) - Free class for web security for those interested in bug bounties as well as seasoned security professionals.
+- [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/) - Many different variants of the SQL Injection vulnerability.
+- [SQL Injection Knowledge Base](https://websec.ca/kb/sql_injection) - Many different variants of the SQL Injection vulnerability.
 
 ## Other
 

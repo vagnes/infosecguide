@@ -18,6 +18,7 @@ This is by no means any study plan or definite guide to every aspect that you wi
 - [Software](#software)
 - [Journals](#journals)
 - [Blogs](#blogs)
+- [Other](#other)
 
 ## Programming languages
 
@@ -28,7 +29,13 @@ This is by no means any study plan or definite guide to every aspect that you wi
 
 ### High level
 
-- [Python](https://www.python.org/) Python is a valuable tool for scripting things that cannot easily be done in shell scripting. It's also the perfect beginner's language with an extensive library and many resources available.
+- [Python](https://www.python.org/) - Python is a valuable tool for scripting things that cannot easily be done in shell scripting. It's also the perfect beginner's language with an extensive library and many resources available.
+
+### Scripting etc
+
+- [bash](https://www.gnu.org/software/bash/) - Unix shell with its own command language that can be executed as shell script files (.sh).
+- [cmd](https://en.wikipedia.org/wiki/Cmd.exe) - Windows' CLI with a primitive scripting language that can be executed as batch files (.bat).
+- [Powershell](https://github.com/powershell/powershell) - Microsoft's framework for task automation with its own scripting language. Useful from devOps to keystroke injection.
 
 ## Books
 
@@ -57,8 +64,9 @@ This is by no means any study plan or definite guide to every aspect that you wi
 ### Terminal
 
 - [emacs](https://www.gnu.org/software/emacs/) - More than just a text editor. Highly customisable with a mind boggeling set of features.
-- [vim](https://www.vim.org) - Vim is a highly configurable text editor for efficiently creating and changing any kind of text. (You quit vim by typing ":q")
 - [Nano](https://www.nano-editor.org/) - A very simple text editor that is easy to learn.
+- [vim](https://www.vim.org) - Vim is a highly configurable text editor for efficiently creating and changing any kind of text. (You quit vim by typing ":q")
+
 
 ## Software
 
@@ -75,3 +83,7 @@ This is by no means any study plan or definite guide to every aspect that you wi
 
 - [Krebs on Security](https://krebsonsecurity.com/) - Brian Krebs is an American journalist and investigative reporter with great coverage on cybercrime.
 - [Schneier on Security](https://www.schneier.com/) - Bruce Schneier is an American cryptographer, computer security professional, privacy specialist and writer.
+
+## Other
+
+- [cmd.to](https://cmd.to/fm) - Internet "operating system" based on command-line interface. Plays music and is generally awesome.

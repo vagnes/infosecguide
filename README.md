@@ -14,6 +14,8 @@ If you think the list lack something that could be useful, either do a pull requ
 - [Books](#books)
 - [Editors](#editors)
 - [Software](#software)
+- [Journals](#journals)
+- [Blogs](#blogs)
 
 ## Programming languages
 
@@ -49,7 +51,7 @@ The International Journal of Proof-of-Concept or Get The Fuck Out is a valuable 
 
 This book is a collection of essays from June 2002 to June 2008 that was published on his blog. Also available as an audio book. For those with little to no initial knowledge in the field, this is a really good book to start with.
 
-## Editors 
+## Editors
 
 ### [Atom](https://github.com/atom/atom)
 
@@ -73,7 +75,7 @@ IDA Pro is a widely used proprietary disassembler and debugger.
 
 Radare 2 is as a forensics tool, a scriptable CLI editor able to open disk files, analysing binaries, disassembling code, debugging programs, attaching to remote gdb servers, and so forth. It's a good alternative to proprietary disassemblers like [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml).
 
-## Papers and Journals
+## Journals
 
 ### [Directory of Open Access Journals (DOAJ)](https://doaj.org/)
 

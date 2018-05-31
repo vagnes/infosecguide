@@ -4,9 +4,11 @@
 	<br><br><br>
 </div>
 
-This is an introductory guide to resources useful for those in the InfoSec field. I was inspired to make this after seeing[Sindre Sorhus' awesome list](https://github.com/sindresorhus/awesome/) and also realising that the domain [infosec.guide](http://infosec.guide/) was available.
+This is an introductory guide to tools, knowledge and resources useful for those in the InfoSec field. I was inspired to make this after seeing [Sindre Sorhus' awesome list](https://github.com/sindresorhus/awesome/) and also realising that the domain [infosec.guide](http://infosec.guide/) was available.
 
 If you think the list lack something that could be useful, either do a pull request or file an issue. Either way is fine, but please include the name of the book, software or whatever, with a short description and a link to either its repository or any other suitable place. Open source material is of course appreciated.
+
+This is by no means any study plan or definite guide to every aspect that you will probably need, however I do think that as this list grows it will be able to give you a helping hand in what to learn next.
 
 ## Contents
 
@@ -36,6 +38,10 @@ Python is a valuable tool for scripting things that cannot easily be done in she
 ### [Data and Goliath by Bruce Schneier](https://www.schneier.com/books/data_and_goliath/)
 
 An important book to read to understand aspects of data collection, surveillance, censorship and privacy.
+
+### [Metasploit Penetration Testing Cookbook by M. Agarwal and A. Singh](https://www.packtpub.com/networking-and-servers/metasploit-penetration-testing-cookbook)
+
+Featuring over 80 recipes to master the most widely used penetration testing framework, this is a good book to start with if you know little to nothing about how to use the MSF framework and Metasploit.
 
 ### [Penetration Testing by Georgia Weidman](https://nostarch.com/pentesting)
 

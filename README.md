@@ -44,6 +44,10 @@ This is by no means any study plan or definite guide to every aspect that you wi
 
 - [Data and Goliath by Bruce Schneier](https://www.schneier.com/books/data_and_goliath/) - An important book to read to understand aspects of data collection, surveillance, censorship and privacy.
 
+### Management
+
+- [The Book of Risk by Dan Borge](https://www.bookdepository.com/Book-Risk-Dan-Borge/9780471323785) - An introduction to why and how you should think about risk management.
+
 ### Learning hacking tools
 
 - [Metasploit Penetration Testing Cookbook by M. Agarwal and A. Singh](https://www.packtpub.com/networking-and-servers/metasploit-penetration-testing-cookbook) - Featuring over 80 recipes to master the most widely used penetration testing framework, this is a good book to start with if you know little to nothing about how to use the MSF framework and Metasploit.

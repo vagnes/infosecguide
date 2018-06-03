@@ -74,10 +74,16 @@ This is by no means any study plan or definite guide to every aspect that you wi
 
 ## Software
 
+### Automatic exploitation tools
+
+- [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
+
 ### Dissasemblers and debuggers
 
+- [Cutter](https://github.com/radareorg/cutter) - GUI frontend for radare 2.
 - [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml) !--NOT FOSS--! - IDA Pro is a widely used proprietary disassembler and debugger.
 - [Radare 2](https://github.com/radare/radare2) - Forensics tool, scriptable CLI editor able to open disk files, analysing binaries, disassembling code, debugging programs, attaching to remote gdb servers, and so forth.
+- [x64dbg](https://github.com/x64dbg/x64dbg) - Open-source x64/x32 debugger for Windows.
 
 ## Journals
 

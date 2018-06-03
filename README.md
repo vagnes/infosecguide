@@ -85,6 +85,17 @@ This is by no means any study plan or definite guide to every aspect that you wi
 - [Radare 2](https://github.com/radare/radare2) - Forensics tool, scriptable CLI editor able to open disk files, analysing binaries, disassembling code, debugging programs, attaching to remote gdb servers, and so forth.
 - [x64dbg](https://github.com/x64dbg/x64dbg) - Open-source x64/x32 debugger for Windows.
 
+### Information gathering
+
+- [amass](https://github.com/caffix/amass) - In-depth subdomain enumeration written in Go.
+- [DotDotPwn](https://github.com/wireghoul/dotdotpwn) - Directory Traversal Fuzzer
+- [Golismero](https://github.com/golismero/golismero) - Open source framework for security testing.
+- [Masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+- [Nikto](https://github.com/sullo/nikto) - Open source webscanner.
+- [Nmap](https://github.com/nmap/nmap) - Network mapper; scans ports and has scripitng capabilities.
+- [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Web Reconnaissance framework written in Python.
+- [Pyparazzi](https://github.com/vagnes/pyparazzi) - Effective link scanning on any domain.
+
 ## Journals
 
 - [Directory of Open Access Journals (DOAJ)](https://doaj.org/) - DOAJ is a community-curated online directory that indexes open access, peer-reviewed journals. All data is freely available under CC BY-SA.

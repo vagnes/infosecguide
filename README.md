@@ -118,6 +118,11 @@ This is by no means any study plan or definite guide to every aspect that you wi
 - [history](https://www.linux.org/docs/man1/history.html) - Display the command history list with line numbers.
 - [link](https://www.linux.org/docs/man1/link.html) - Create a [hard link or symbolic link (symlink)](https://en.wikipedia.org/wiki/Ln_(Unix)).
 - [strings](https://www.linux.org/docs/man1/strings.html) - Print the strings of printable characters in files.
+- [pinky, finger](https://www.linux.org/docs/man1/pinky.html) - Displays user activity.
+- [tail](https://www.linux.org/docs/man1/tail.html) - Output the last part of files.
+- [unzip](https://www.linux.org/docs/man1/unzip.html) - List, test and extract compressed files in a ZIP archive.
+- [zipgrep](https://www.linux.org/docs/man1/zipgrep.html) - Search files in a ZIP archive for lines matching a pattern.
+- [zip](https://www.linux.org/docs/man1/zip.html) - Package and compress (archive) files.
 
 ## Journals
 

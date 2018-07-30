@@ -103,6 +103,7 @@ This is by no means any study plan or definite guide to every aspect that you wi
 
 ### Linux tools
 
+- [grep, egrep, fgrep](https://www.linux.org/docs/man1/grep.html) - Print lines matching a pattern.
 - [strings](https://www.linux.org/docs/man1/strings.html) - Print the strings of printable characters in files.
 
 ## Journals

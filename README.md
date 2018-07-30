@@ -130,6 +130,7 @@ This is by no means any study plan or definite guide to every aspect that you wi
 
 ## Journals and indices
 
+- [CVE](https://cve.mitre.org/) - Common Vulnerabilities and Exposures is a list of publicly known cybersecurity vulnerabilities.
 - [Directory of Open Access Journals (DOAJ)](https://doaj.org/) - DOAJ is a community-curated online directory that indexes open access, peer-reviewed journals. All data is freely available under CC BY-SA.
 
 ## Blogs

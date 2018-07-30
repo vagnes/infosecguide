@@ -41,6 +41,10 @@ This is by no means any study plan or definite guide to every aspect that you wi
 
 ## Books
 
+### Operative systems
+
+- [The Design and Implementation of the FreeBSD Operating System, Second Edition](https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968972) - An extensive book about FreeBSD's kernel and internal workings.
+
 ### Privacy, surveillance, censorship and privacy
 
 - [Data and Goliath by Bruce Schneier](https://www.schneier.com/books/data_and_goliath/) - An important book to read to understand aspects of data collection, surveillance, censorship and privacy.
@@ -101,7 +105,7 @@ This is by no means any study plan or definite guide to every aspect that you wi
 - [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Web Reconnaissance framework written in Python.
 - [Pyparazzi](https://github.com/vagnes/pyparazzi) - Link scanning on any domain.
 
-### Linux tools
+### Linux/BSD/UNIX tools
 
 > These tools are not a complete overview of what you need to know to get started using the terminal environment effectively. For that, there is a good and easy to follow [video tutorial by Joe Collins](https://www.youtube.com/watch?v=oxuRxtrO2Ag) that would help you.
 

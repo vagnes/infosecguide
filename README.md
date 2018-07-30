@@ -103,6 +103,7 @@ This is by no means any study plan or definite guide to every aspect that you wi
 
 ### Linux tools
 
+- [alias](https://www.linux.org/docs/man1/alias.html) - Creates an [alias](http://www.linfo.org/alias.html).
 - [base64](https://www.linux.org/docs/man1/base64.html) - Base64 encode/decode data and print to standard output.
 - [csplit](https://www.linux.org/docs/man1/csplit.html) - Split a file into sections determined by context lines
 - [curl](https://www.linux.org/docs/man1/curl.html) - Transfer data from or to a server, using various protocols.
@@ -113,6 +114,7 @@ This is by no means any study plan or definite guide to every aspect that you wi
 - [gzip, gunzip, zcat](https://www.linux.org/docs/man1/gzip.html) - Compress or expand files.
 - [hexdump](https://www.linux.org/docs/man1/hexdump.html) - Display file contents in ascii, decimal (base10), hexadecimal (base16), or octal (base8).
 - [history](https://www.linux.org/docs/man1/history.html) - Display the command history list with line numbers.
+- [link](https://www.linux.org/docs/man1/link.html) - Create a [hard link or symbolic link (symlink)](https://en.wikipedia.org/wiki/Ln_(Unix)).
 - [strings](https://www.linux.org/docs/man1/strings.html) - Print the strings of printable characters in files.
 
 ## Journals

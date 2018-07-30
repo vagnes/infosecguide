@@ -103,6 +103,8 @@ This is by no means any study plan or definite guide to every aspect that you wi
 
 ### Linux tools
 
+> These tools are not a complete overview of what you need to know to get started using the terminal environment effectively. For that, there is a good and easy to follow [video tutorial by Joe Collins](https://www.youtube.com/watch?v=oxuRxtrO2Ag) that would help you.
+
 - [alias](https://www.linux.org/docs/man1/alias.html) - Creates an [alias](http://www.linfo.org/alias.html).
 - [base64](https://www.linux.org/docs/man1/base64.html) - Base64 encode/decode data and print to standard output.
 - [csplit](https://www.linux.org/docs/man1/csplit.html) - Split a file into sections determined by context lines

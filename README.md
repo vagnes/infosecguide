@@ -128,7 +128,7 @@ This is by no means any study plan or definite guide to every aspect that you wi
 - [zipgrep](https://www.linux.org/docs/man1/zipgrep.html) - Search files in a ZIP archive for lines matching a pattern.
 - [zip](https://www.linux.org/docs/man1/zip.html) - Package and compress (archive) files.
 
-## Journals
+## Journals and indices
 
 - [Directory of Open Access Journals (DOAJ)](https://doaj.org/) - DOAJ is a community-curated online directory that indexes open access, peer-reviewed journals. All data is freely available under CC BY-SA.
 

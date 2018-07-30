@@ -107,6 +107,8 @@ This is by no means any study plan or definite guide to every aspect that you wi
 - [csplit](https://www.linux.org/docs/man1/csplit.html) - Split a file into sections determined by context lines
 - [curl](https://www.linux.org/docs/man1/curl.html) - Transfer data from or to a server, using various protocols.
 - [cut](https://www.linux.org/docs/man1/cut.html) - Remove sections from each line of files.
+- [file](https://www.linux.org/docs/man1/file.html) - Determine file type.
+- [find](https://www.linux.org/docs/man1/find.html) - Search for files in a directory hierarchy.
 - [grep, egrep, fgrep](https://www.linux.org/docs/man1/grep.html) - Print lines matching a pattern.
 - [strings](https://www.linux.org/docs/man1/strings.html) - Print the strings of printable characters in files.
 

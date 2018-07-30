@@ -75,7 +75,7 @@ This is by no means any study plan or definite guide to every aspect that you wi
 
 - [emacs](https://www.gnu.org/software/emacs/) - More than just a text editor. Highly customisable with a mind boggling set of features.
 - [Nano](https://www.nano-editor.org/) - A very simple text editor that is easy to learn.
-- [vim](https://www.vim.org) - Vim is a highly configurable text editor for efficiently creating and changing any kind of text. (You quit vim by typing ":q")
+- [vim](https://www.vim.org) - Vim is a highly configurable and efficient text editor. (You quit vim by typing ":q")
 
 ## Software
 

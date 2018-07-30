@@ -102,8 +102,9 @@ This is by no means any study plan or definite guide to every aspect that you wi
 - [Masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [Nikto](https://github.com/sullo/nikto) - Open source webscanner.
 - [Nmap](https://github.com/nmap/nmap) - Network mapper; scans ports and has scripitng capabilities.
-- [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Web Reconnaissance framework written in Python.
 - [Pyparazzi](https://github.com/vagnes/pyparazzi) - Link scanning on any domain.
+- [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Web Reconnaissance framework written in Python.
+- [Tripwire](https://github.com/Tripwire/tripwire-open-source) - Security and data integrity tool for monitoring and alerting on file & directory changes.
 
 ### Linux/BSD/UNIX tools
 

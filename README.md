@@ -110,6 +110,9 @@ This is by no means any study plan or definite guide to every aspect that you wi
 - [file](https://www.linux.org/docs/man1/file.html) - Determine file type.
 - [find](https://www.linux.org/docs/man1/find.html) - Search for files in a directory hierarchy.
 - [grep, egrep, fgrep](https://www.linux.org/docs/man1/grep.html) - Print lines matching a pattern.
+- [gzip, gunzip, zcat](https://www.linux.org/docs/man1/gzip.html) - Compress or expand files.
+- [hexdump](https://www.linux.org/docs/man1/hexdump.html) - Display file contents in ascii, decimal (base10), hexadecimal (base16), or octal (base8).
+- [history](https://www.linux.org/docs/man1/history.html) - Display the command history list with line numbers.
 - [strings](https://www.linux.org/docs/man1/strings.html) - Print the strings of printable characters in files.
 
 ## Journals

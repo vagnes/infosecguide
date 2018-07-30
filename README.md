@@ -8,7 +8,7 @@ This is an introductory guide to tools, knowledge and resources useful for those
 
 If you think the list lack something that could be useful, either do a pull request or file an issue. Either way is fine, but please include the name of the book, software or whatever, with a short description and a link to either its repository or any other suitable place. Open source material is of course appreciated.
 
-This is by no means any study plan or definite guide to every aspect that you will probably need, however I do think that as this list grows it will be able to give you a helping hand in what to learn next. If, however, you want me to create a sort of study plan, just ping me and I will try to start a list for that as well. A good starting point is to build stuff in Python (or any high level language) and try to correlate it with InfoSec. Build a scraper; build something that utilises an exploit that you've heard of. The interpreter is the limit.
+This is by no means any study plan or definite guide to every aspect that you will probably need, however I do think that as this list grows it will be able to give you a helping hand in what to learn next. If, however, you want me to create a sort of study plan, just ping me and I will try to start a list for that as well. A good starting point is to build stuff in Python (or any high-level language) and try to correlate it with InfoSec. Build a scraper; build something that utilises an exploit that you've heard of. The interpreter is the limit.
 
 ## Contents
 
@@ -69,17 +69,21 @@ This is by no means any study plan or definite guide to every aspect that you wi
 
 ### Terminal
 
-- [emacs](https://www.gnu.org/software/emacs/) - More than just a text editor. Highly customisable with a mind boggeling set of features.
+- [emacs](https://www.gnu.org/software/emacs/) - More than just a text editor. Highly customisable with a mind boggling set of features.
 - [Nano](https://www.nano-editor.org/) - A very simple text editor that is easy to learn.
 - [vim](https://www.vim.org) - Vim is a highly configurable text editor for efficiently creating and changing any kind of text. (You quit vim by typing ":q")
 
 ## Software
 
+### Frameworks
+
+- [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - Burnability and exploitation automation framework.
+
 ### Automatic exploitation tools
 
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
 
-### Dissasemblers and debuggers
+### Disassemblers and debuggers
 
 - [Cutter](https://github.com/radareorg/cutter) - GUI frontend for radare 2.
 - [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml) !--NOT FOSS--! - IDA Pro is a widely used proprietary disassembler and debugger.
@@ -108,7 +112,7 @@ This is by no means any study plan or definite guide to every aspect that you wi
 
 ## Podcasts
 
-- [Defensive Security](https://defensivesecurity.org/) - Cyber security podcast covering breaches and strategies for defense.
+- [Defensive Security](https://defensivesecurity.org/) - Cyber security podcast covering breaches and strategies for defence.
 
 ## Guides and cheat sheets
 

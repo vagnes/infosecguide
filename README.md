@@ -101,6 +101,10 @@ This is by no means any study plan or definite guide to every aspect that you wi
 - [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Web Reconnaissance framework written in Python.
 - [Pyparazzi](https://github.com/vagnes/pyparazzi) - Link scanning on any domain.
 
+### Linux tools
+
+- [strings](https://www.linux.org/docs/man1/strings.html) - Print the strings of printable characters in files.
+
 ## Journals
 
 - [Directory of Open Access Journals (DOAJ)](https://doaj.org/) - DOAJ is a community-curated online directory that indexes open access, peer-reviewed journals. All data is freely available under CC BY-SA.

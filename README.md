@@ -77,7 +77,7 @@ This is by no means any study plan or definite guide to every aspect that you wi
 
 ### Frameworks
 
-- [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - Burnability and exploitation automation framework.
+- [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - Vulnerability and exploitation automation framework.
 
 ### Automatic exploitation tools
 

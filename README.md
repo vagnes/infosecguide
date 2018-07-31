@@ -99,12 +99,13 @@ This is by no means any study plan or definite guide to every aspect that you wi
 - [amass](https://github.com/caffix/amass) - In-depth subdomain enumeration written in Go.
 - [DotDotPwn](https://github.com/wireghoul/dotdotpwn) - Directory Traversal Fuzzer
 - [Golismero](https://github.com/golismero/golismero) - Open source framework for security testing.
+- [Lynis](https://github.com/CISOfy/lynis) - Security auditing tool assisting compliance testing and system hardening.
 - [Masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [Nikto](https://github.com/sullo/nikto) - Open source webscanner.
 - [Nmap](https://github.com/nmap/nmap) - Network mapper; scans ports and has scripitng capabilities.
 - [Pyparazzi](https://github.com/vagnes/pyparazzi) - Link scanning on any domain.
 - [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Web Reconnaissance framework written in Python.
-- [Snort](https://www.openhub.net/p/snort) - lightweight network IDS, with real-time traffic analysis and packet logging on IP networks. 
+- [Snort](https://www.openhub.net/p/snort) - lightweight network IDS, with real-time traffic analysis and packet logging on IP networks.
 - [Tripwire](https://github.com/Tripwire/tripwire-open-source) - Security and data integrity tool for monitoring and alerting on file & directory changes.
 
 ### Linux/BSD/UNIX tools

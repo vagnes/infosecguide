@@ -161,4 +161,6 @@ This is by no means any study plan or definite guide to every aspect that you wi
 
 ## Other
 
+- [asciinema](https://asciinema.org/) - Record and share your terminal sessions. Entirely terminal based; no GIFs or videos.
 - [cmd.to](https://cmd.to/fm) - Internet "operating system" based on command-line interface. Plays music and is generally awesome.
+- [peek](https://github.com/phw/peek) -  Simple animated GIF screen recorder with an easy to use interface.

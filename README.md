@@ -19,6 +19,7 @@ This is by no means any study plan or definite guide to every aspect that you wi
 - [Journals](#journals)
 - [Blogs](#blogs)
 - [Podcasts](#podcasts)
+- [Video channels](#video-channels)
 - [Guides and cheat sheets](#guides-and-cheat-sheets)
 - [Other](#other)
 
@@ -152,6 +153,10 @@ This is by no means any study plan or definite guide to every aspect that you wi
 ## Podcasts
 
 - [Defensive Security](https://defensivesecurity.org/) - Cyber security podcast covering breaches and strategies for defence.
+
+## Video channels
+
+- [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q) - Infosec related topics including Digital Forensics and Incident Response (DFIR) and Penetration Testing.
 
 ## Governmental sites
 

@@ -29,6 +29,7 @@ This is by no means any study plan or definite guide to every aspect that you wi
 
 - [C](https://en.wikipedia.org/wiki/C_\(programming_language\)) - Low-level language useful to know if you are planning to dig into operative systems and understand their inner workings.
 - [Go](https://golang.org/) - Go (or golang) is a new language by Google that is specialises in concurrent execution. It is useful for making scalable web servers, but also for InfoSec tools that require speed. [Bettercap](https://github.com/bettercap/bettercap) is written in Go.
+- [Rust](https://www.rust-lang.org/) - Rust is a blazingly fast language with focus on safe and secure code. [Redox](https://www.redox-os.org), a new microkernel based operative system, is written in Rust.
 
 ### High level
 

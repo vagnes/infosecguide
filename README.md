@@ -6,7 +6,11 @@
 
 This is an introductory guide to tools, knowledge and resources useful for those in the InfoSec field. I was inspired to make this after seeing [Sindre Sorhus' awesome list](https://github.com/sindresorhus/awesome/) and also realising that the domain [infosec.guide](http://infosec.guide/) was available. Different from Sorhus' awesome list, this list will include things that are probably less than awesome, like proprietary software, because they are widely recognised and used.
 
-If you think the list lack something that could be useful, either do a pull request or file an issue. Either way is fine, but please include the name of the book, software or whatever, with a short description and a link to either its repository or any other suitable place. Open source material is of course appreciated.
+If you think the list lack something that could be useful, either do a pull request or file an issue. Either way is fine, but please format it as following:
+
+- [Awesome thing](https://awesome-thing.com/) - Description of awesome thing.
+
+**Anything else won't be accepted.** You could also suggest a new section if you believe it does not fit the ones below.
 
 This is by no means any study plan or definite guide to every aspect that you will probably need, however I do think that as this list grows it will be able to give you a helping hand in what to learn next. If, however, you want me to create a sort of study plan, just ping me and I will try to start a list for that as well. A good starting point is to build stuff in Python (or any high-level language) and try to correlate it with InfoSec. Build a scraper; build something that utilises an exploit that you've heard of. The interpreter is the limit.
 

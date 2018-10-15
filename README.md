@@ -6,9 +6,9 @@
 
 This is an introductory guide to tools, knowledge and resources useful for those in the InfoSec field. I was inspired to make this after seeing [Sindre Sorhus' awesome list](https://github.com/sindresorhus/awesome/) and also realising that the domain [infosec.guide](http://infosec.guide/) was available. Different from Sorhus' awesome list, this list will include things that are probably less than awesome, like proprietary software, because they are widely recognised and used.
 
-If you think the list lack something that could be useful, either do a pull request or file an issue. Either way is fine, but please format it as following:
+If you think the list lack something that could be useful, either do a pull request or file an issue. Either way is fine, but please format it in Markdown as following:
 
-- [Awesome thing](https://awesome-thing.com/) - Description of awesome thing.
+\- \[Awesome thing\](https://awesome-thing.com/) - Description of awesome thing.
 
 **Anything else won't be accepted.** You could also suggest a new section if you believe it does not fit the ones below.
 
